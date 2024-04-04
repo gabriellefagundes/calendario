@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto Website de produtos
 
 ## 🚀 Começando
@@ -51,5 +50,4 @@ Nesse projeto, foi criado um calendário virtual na matéria de:
 
 ## ✍🏻Autores
 | <img loading="img/eu.jpg" src="img/eu.jpg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub> 
->>>>>>> 4bcfce64b5d7db05d7f8d89bd430a8fa63588192
 | :---: 
